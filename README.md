@@ -5,7 +5,7 @@ Designed an interactive Revenue Analysis Dashboard for a multi-city Bike Store, 
 
 To provide business stakeholders with a clear, interactive view of revenue trends, customer distribution, product performance, and city/store-level sales, enabling data-driven decision-making.
 
-💼 Business Impact:
+Business Impact:
 
 💡 Helped identify top-performing brands (Trek with ~60% contribution) and best-selling categories (Mountain and Road Bikes).
 
@@ -16,7 +16,7 @@ To provide business stakeholders with a clear, interactive view of revenue trend
 👥 Informed customer segmentation and targeted campaigns with data from 1,445 unique customers.
 
 
-📊 Key Features:
+Key Features:
 
 📅 Monthly revenue trends
 
@@ -27,8 +27,7 @@ To provide business stakeholders with a clear, interactive view of revenue trend
 🔍 Year-over-year comparisons (2016–2018)
 
 
-
-🤖 Key influencer insights using Power BI’s AI visuals:
+ Key influencer insights using Power BI’s AI visuals:
 
 📈 Total Revenue: ₹7.69M across 1,445 customers
 
@@ -38,6 +37,6 @@ To provide business stakeholders with a clear, interactive view of revenue trend
 
 
 
-🛠️ Tools Used: 
+Tools Used: 
 
-Power BI, DAX, Interactive Visuals, Slicers
+🛠️Power BI, DAX, Interactive Visuals, Slicers
