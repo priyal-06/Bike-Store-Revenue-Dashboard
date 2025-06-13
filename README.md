@@ -48,3 +48,11 @@ Tools Used
 🛠️Power BI, DAX, Interactive Visuals, Slicers
 
 
+Dashboard Demonstration
+-------------------------
+
+
+
+
+https://github.com/user-attachments/assets/daaabb24-7fc1-4bca-b4a0-d45e7688faee
+
