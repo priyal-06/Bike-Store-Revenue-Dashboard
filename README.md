@@ -47,5 +47,4 @@ Tools Used
 
 🛠️Power BI, DAX, Interactive Visuals, Slicers
 
-<!-- Failed to upload "bike store dashboard video.mp4" -->
-![Image](https://github.com/user-attachments/assets/81adcbc6-ebf7-45e5-8f37-c8553d62d1b2)
+
